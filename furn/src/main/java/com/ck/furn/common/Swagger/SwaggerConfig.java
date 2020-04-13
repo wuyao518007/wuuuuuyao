@@ -12,13 +12,7 @@ import springfox.documentation.spi.DocumentationType;
 import springfox.documentation.spring.web.plugins.Docket;
 import springfox.documentation.swagger2.annotations.EnableSwagger2;
 
-/**
- * @Author: ck901111
- * @Date: 2019-12-10 17:06:12
- * @phone 13396412323
- * @Version: 1.0
- * @Desc: TODO
- **/
+
 @Configuration
 @EnableSwagger2
 @EnableWebMvc
