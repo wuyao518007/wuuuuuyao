@@ -30,8 +30,6 @@ import io.swagger.annotations.ApiOperation;
 
 /**
  * 用户登录
- * @author ck
- * @version 2019-12-7
  */
 @RestController
 @RequestMapping("/user")
