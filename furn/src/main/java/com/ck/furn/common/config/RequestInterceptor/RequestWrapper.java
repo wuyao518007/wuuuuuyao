@@ -15,7 +15,6 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletRequestWrapper;
 /**
  * 在request流中读取参数
- * @author ck
  *
  */
 public class RequestWrapper extends HttpServletRequestWrapper {
