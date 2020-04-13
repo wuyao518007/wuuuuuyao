@@ -8,7 +8,6 @@ import java.io.IOException;
 
 /**
  * 过滤器，用来把拦截的request传递下去
- * @author ck
  *
  */
 @WebFilter(urlPatterns = "/*",filterName = "channelFilter")
