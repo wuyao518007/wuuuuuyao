@@ -14,7 +14,6 @@ import com.ck.furn.sys.bean.UserPhoto;
 
 /**
  * 用户DAO接口
- * @author ck
  * @version 
  */
 @Mapper
