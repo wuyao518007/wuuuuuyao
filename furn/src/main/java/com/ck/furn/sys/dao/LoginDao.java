@@ -8,8 +8,6 @@ import com.ck.furn.sys.bean.User;
 
 /**
  * 用户登录
- * @author ck
- * @version 2019-12-7
  */
 @Mapper
 public interface LoginDao {
