@@ -4,8 +4,6 @@ import com.ck.furn.common.BaseBean;
 
 /**
  * 权限
- * @author ck
- * @version 2019-12-7
  */
 public class Role extends BaseBean{
 
