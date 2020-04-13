@@ -13,7 +13,6 @@ import net.sf.json.JSONObject;
 
 /**
  * 拦截器
- * @author ck
  *
  */
 public class MyInterceptor implements HandlerInterceptor{
