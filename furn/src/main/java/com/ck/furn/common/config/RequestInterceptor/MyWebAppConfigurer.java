@@ -6,7 +6,6 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter
 
 /**
  * 拦截需要从request流中读取参数的请求地址
- * @author ck
  *
  */
 @Configuration
