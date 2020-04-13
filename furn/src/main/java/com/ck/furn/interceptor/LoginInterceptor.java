@@ -8,8 +8,6 @@ import org.springframework.web.servlet.ModelAndView;
 
 /**
  * 拦截器
- * @author ck901111
- * @phone 13396412323
  */
 public class LoginInterceptor implements HandlerInterceptor {
 
