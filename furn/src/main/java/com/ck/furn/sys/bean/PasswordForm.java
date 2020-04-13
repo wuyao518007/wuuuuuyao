@@ -3,10 +3,6 @@ package com.ck.furn.sys.bean;
 /**
  * PasswordForm
  *
- * @author bobbi
- * @date 2018/10/26 17:40
- * @email 571002217@qq.com
- * @description
  */
 public class PasswordForm {
 
